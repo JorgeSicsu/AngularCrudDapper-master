@@ -4,6 +4,8 @@
   "projects": {
     "AngularDapperCrud": {
       "projectType": "application",
+      "root": "",
+      "schematics": {},
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
