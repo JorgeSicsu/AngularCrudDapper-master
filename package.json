@@ -10,6 +10,7 @@
     "@angular/animations": "^20.1.0",
     "@angular/common": "^20.1.4",
     "@angular/compiler": "^20.1.4",
+    "@angular/cli": "^20.1.4",
     "@angular/core": "^20.1.4",
     "@angular/forms": "^20.1.4",
     "@angular/platform-browser": "^20.1.4",
@@ -21,11 +22,10 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^20.1.4",
-    "@angular/cli": "^20.1.4",
     "@angular/compiler-cli": "^20.1.4",
     "typescript": "^5.8.3"
   },
   "engines": {
-    "node": ">=20.19.0"
+    "node": ">=22.12.0"
   }
 }
