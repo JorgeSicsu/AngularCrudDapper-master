@@ -43,5 +43,7 @@
       }
     }
   },
-  "defaultProject": "AngularDapperCrud"
+  "cli": {
+    "analytics": false
+  }
 }
